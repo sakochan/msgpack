@@ -1,6 +1,6 @@
 MessagePack
 ===========
-Extremely efficient object serialization library. It's like JSON, but very fast and small.
+Super efficient object serialization library. It's like JSON, but very fast and small.
 
 
 ## What's MessagePack?
